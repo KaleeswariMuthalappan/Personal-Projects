@@ -1,5 +1,5 @@
 Diwali Sales Exploratory Analysis.
 
-Data Set: Excel
+Source : Diwali Sales Data
 
-Derived insights from sales data considering various categoires like by Gender, Age group, Occupation, Product Category using Python libraries.
+Derived insights from sales data considering various categories like by Gender, Age group, Occupation and Product Category using Python libraries.
